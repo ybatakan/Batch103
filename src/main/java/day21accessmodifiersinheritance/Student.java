@@ -4,7 +4,7 @@ public class Student {
 
      /*
         Access Modifier
-        1)public     2)protected     3)default (Access Modifier'i default yapmak icin access modifier yazmayiz)     4)private
+        1)public   2)protected   3)default (Access Modifier'i default yapmak icin access modifier yazmayiz) 4)private
 
         Note: Access Modifier'lari genisden dara dogru sayiniz
               public > protected > default > private

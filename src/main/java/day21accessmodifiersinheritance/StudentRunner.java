@@ -9,6 +9,5 @@ public class StudentRunner {
         System.out.println(std1.stdName);
 
 
-
     }
 }
